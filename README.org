@@ -1,0 +1,10 @@
+#+title: Welcome to Battle School
+
+This is a collection of programming problems that I use to practice different
+languages and to try and stay sharp.
+
+Each solution file should contain documentation on how the problem was
+approached. However, the solutions should be checked against their sources. This
+is only to collect the answers and their problem specifications.
+
+The name is a reference to Ender's Game.
